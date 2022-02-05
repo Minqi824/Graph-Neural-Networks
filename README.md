@@ -6,6 +6,6 @@
 - [WWW-18 Tutorial Representation Learning on Networks](http://snap.stanford.edu/proj/embeddings-www/)
 
 
-### Package
+### Package/library
 - [pytorch-geometric](https://github.com/pyg-team/pytorch_geometric)
-- 
+- https://www.dgl.ai/
